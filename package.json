@@ -1,0 +1,25 @@
+{
+  "name": "generator-rb",
+  "version": "0.0.0",
+  "description": "React Boilerplate generator",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/termosa/generator-rb.git"
+  },
+  "keywords": [
+    "yeoman",
+    "generator",
+    "js",
+    "react",
+    "redux",
+    "webpack",
+    "babel",
+    "es2015"
+  ],
+  "author": "Stanislav Termosa <termosa.stanislav@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/termosa/generator-rb/issues"
+  },
+  "homepage": "https://github.com/termosa/generator-rb#readme"
+}
